@@ -1,0 +1,23 @@
+{
+    "responsive": true,
+    "tmpSocialIconFont": true,
+    "enableEditorJS": true,
+    "description": "Haberdasher is a fashion forward, ultra-clean theme that gives your website a modern and approachable feel. With a sleek black and gold palette Haberdasher keeps your content classy.",
+    "features": [
+        "responsive",
+        "css-buttons",
+        "social-icons",
+        "full-width-header",
+        "navigation-top",
+        "color-palettes"
+    ],
+	"header-conversions": {
+        "user-id": "80949722",
+        "site-id": "259356658579274234",
+        "page-types": {
+            "tall-header": "101366728948017552",
+            "short-header": "264286797172536653",
+            "landing": "414456309730392714"
+        }
+    }
+}
